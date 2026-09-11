@@ -19,7 +19,7 @@ class Program
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
 
-        int[] arrayNums1 = new int[] { 1, 2, 3, 4, 5 };
+        int[] arrayNums1 = new int[] { 1,2,3,4,5 };
 
         Console.WriteLine("Значения элементов массива №1");
         for (int i = 0; i < arrayNums1.Length; i++)
@@ -28,7 +28,7 @@ class Program
         }
         Console.WriteLine();
 
-        int[] arrayNums2 = new int[] { 1, 2, 3, 4, 5 };
+        int[] arrayNums2 = new int[] { 1,2,3,4,5 };
 
         Console.WriteLine("Значения элементов массива №2");
         for (int i = 0; i < arrayNums2.Length; i++)
